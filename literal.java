@@ -1,4 +1,5 @@
-public class literal {
+public class literal
+    {
     public static void main(String[] args) {
         // decimal-form literal
         int a = 101;
