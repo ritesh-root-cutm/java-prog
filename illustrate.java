@@ -1,5 +1,7 @@
-public class illustrate {
-    public static void main(String[] args) {
+public class illustrate 
+{
+    public static void main(String[] args)
+    {
         // decimal-form literal (float type suffix 'f' or 'F' is required)
         float a = 101.230f;
 
